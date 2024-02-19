@@ -10,7 +10,11 @@ body{/*parametros del body*/
     font-family: monospace, sans-serif;
 }
 
-
+.instrucciones{
+    font-size: 5rem;
+    font-weight: 900;
+    color:rgb(233, 35, 184);
+}
 .carousel{
 	min-height: 900px;
 }
